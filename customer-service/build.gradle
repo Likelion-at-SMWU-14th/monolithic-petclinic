@@ -18,3 +18,7 @@ dependencies {
 
     developmentOnly 'org.springframework.boot:spring-boot-devtools'
 }
+
+springBoot {
+    mainClass = 'org.springframework.samples.petclinic.customer.CustomerServiceApplication'
+}
