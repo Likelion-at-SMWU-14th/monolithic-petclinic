@@ -2,3 +2,4 @@ rootProject.name = 'monolithic-petclinic'
 
 include 'monolith'
 include 'customer-service'
+include 'api-gateway'
